@@ -27,8 +27,7 @@ const Featured = ({type}) => {
                 </div>
             )}
             <img width="100%"
-                src="https://images.pexels.com/photos/6899260/pexels-photo-6899260.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
-                alt=""
+                 src="https://www.cheatsheet.com/wp-content/uploads/2021/07/The-Matrix-bullet-time.jpg?w=1200&h=800" alt=""
             />
             <div className="info">
                 <img
